@@ -5,10 +5,11 @@ It's built with VB.NET in Visual Studio.
 This is a team project done by a group of 4 for coding this project.
 
 **Programmer: 
-Saee Gore
-Jeffrey Lipford
-Adam Kimsey 
-Darshan Patel 
+
+- Saee Gore
+- Jeffrey Lipford
+- Adam Kimsey 
+- Darshan Patel 
 
 Getting Started
 These instructions will give you a brief idea about how to implement this piece of code.
