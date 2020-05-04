@@ -2,7 +2,7 @@
 The student data is entered, edited, updated through a Visual Basic GUI and stored in a Excel Worksheet.
 It's built with VB.NET in Visual Studio.
 
-This is a team project done by a group of 4 for coding this project.
+This is a team project by a group of 4 for the coding of this project.
 
 Programmers: 
 
