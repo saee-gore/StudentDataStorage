@@ -6,16 +6,15 @@ This is a team project by a group of 4 for the coding of this project.
 
 Programmers: 
 
-- Saee Gore
-- Jeffrey Lipford
 - Adam Kimsey 
 - Darshan Patel 
+- Jeffrey Lipford
+- Saee Gore
 
 Getting Started
 These instructions will give you a brief idea about how to implement this piece of code.
 
 - Install Visual Studio 2019
-- Clone the entire project directory from GitHub using the command git clone account
 - Create a console app VB project
 - Paste the code and run the project
 
@@ -25,4 +24,4 @@ Languages: Visual Basic
 
 
 
-License This project is licensed under the MIT License - see the LICENSE.md file for details
+License This project is licensed under the MIT License - see the LICENSE file for details
